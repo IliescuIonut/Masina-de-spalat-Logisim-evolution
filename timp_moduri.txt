@@ -1,0 +1,9 @@
+spalare rapida: incalzire 30 sec, program:40min/2400sec, total: 2430sec
+
+camasi: incalzire 90 sec, program:40min/2400sec, total: 2490sec
+
+culori inchise: incalzire 50sec, program:40min/2400sec, total: 2450sec
+
+rufe murdare: incalzire 50sec, program:50min/3000sec, total: 3050sec
+
+antialergic: incalzire 150sec, program:50min/3000sec, total: 3150sec
